@@ -4,4 +4,4 @@ LouPlus Team X https://www.shiyanlou.com/louplus/python
 
 ## Contributors
 
-* [figo](https://github.com/naxiehuaer2008)
+* [shitoushan](https://github.com/naxiehuaer2008)
